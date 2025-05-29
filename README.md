@@ -19,6 +19,13 @@ Built using `requests` and `BeautifulSoup4`, this script crawls websites, follow
 pip install requests beautifulsoup4
 ```
 
+## 📦 Installation
+
+```
+git clone https://github.com/forgecode1337/bs4_spider.git
+cd bs4_spider
+```
+
 ## ⚙️ Usage
 
 ```bash
